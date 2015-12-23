@@ -42,7 +42,7 @@ to kill previous similar tasks
 
 ## Notes
 
-This project is based on the [generator-project-esnow](https://github.com/rochejul/generator-project-esnow) w/ some modifications added
+This project is based on the [generator-babel-webpack](https://github.com/Pitzcarraldo/generator-babel-webpack) w/ some modifications added
 
 [![Travis build status](http://img.shields.io/travis/Not authed.  Run &#39;npm adduser&#39;/project-babel-webpack.svg?style=flat)](https://travis-ci.org/Not authed.  Run &#39;npm adduser&#39;/project-babel-webpack)
 [![Code Climate](https://codeclimate.com/github/Not authed.  Run &#39;npm adduser&#39;/project-babel-webpack/badges/gpa.svg)](https://codeclimate.com/github/Not authed.  Run &#39;npm adduser&#39;/project-babel-webpack)
