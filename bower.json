@@ -1,0 +1,25 @@
+{
+  "name": "project-babel-webpack",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "JuanMa Garrido <JuanMa.Garrido@gmail.com>",
+  "private": false,
+  "main": [
+    "dist/project-babel-webpack.js",
+    "dist/project-babel-webpack.min.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "devDependencies": {
+    "livereload-js": "~2.2.1"
+  }
+}
