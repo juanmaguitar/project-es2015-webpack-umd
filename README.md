@@ -6,7 +6,7 @@ This repository contains a ready-to-go project structure w/ ES2015 modules and t
 
 Clone the repository
 
-    git clone https://github.com/juanmaguitar/project-es2015-systemJs.git
+    git clone https://github.com/juanmaguitar/project-es2015-webpack-umd.git
 
 Install the dependencies
 
